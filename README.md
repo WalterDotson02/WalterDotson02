@@ -7,7 +7,7 @@
 
 <h2>📺 Certifications </h2>
 
-- [CompTIA A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA A+](https://www.certmetrics.com/comptia/public/download_e_cert.aspx?cert=EF4514814C859C8FA52E48968080A9C9OD1D5A039E0CAC91A79B7F71E22B38F87)
 - [CompTIA Network+](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Microsoft Azure Fundamentals AZ-900](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Microsoft 365 Fundamentals MS-900](https://www.youtube.com/watch?v=a83ASGn_V_s)
