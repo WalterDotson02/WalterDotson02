@@ -9,8 +9,8 @@
 
 - [CompTIA A+](https://app.box.com/s/psfair7cpuq5mrekvgj29f6m1811myu4)
 - [CompTIA Network+](https://app.box.com/s/2xqdaz57w1wtxkk3yx8ugcei6u2f61ip)
-- [Microsoft Azure Fundamentals AZ-900](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Microsoft 365 Fundamentals MS-900](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Microsoft Azure Fundamentals AZ-900](https://app.box.com/s/bejfks4jwecoun4l83wlqzowx354la75)
+- [Microsoft 365 Fundamentals MS-900](https://app.box.com/s/zyfl254r01jlqdg88hkktvrvzylefaty)
 
 <h2> 🤳 Connect with me:</h2>
 
