@@ -5,7 +5,7 @@
 - <b>Azure Sentinel/SIEM Practice</b>
   - [Azure Sentinel SIEM HoneyPot](https://github.com/WalterDotson02/Azure-Sentinel-SIEM-HoneyPot/blob/7bb14e744f7e5e9b796342180460dce85b8baf27/README.md)
 
-- <b>Active Directory Homelab Practice</b>
+- <b>Active Directory Practice</b>
   - [Active Directory Homelab w/ over 1000 users](https://github.com/WalterDotson02/Active-Directory-Practice)
 
 <h2>📺 Certifications </h2>
